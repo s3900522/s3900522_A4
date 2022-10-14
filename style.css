@@ -240,7 +240,7 @@ body{
   grid-column-start: 1;
   grid-column-end: 13;
   grid-row-start: 76;
-  grid-row-end: 78;
+  grid-row-end: 76;
   color: #000000;
   background-color: #ABF62D;
   font-family: poppins;
@@ -249,7 +249,7 @@ body{
 .row-23{
   grid-column-start: 1;
   grid-column-end: 13;
-  grid-row-start: 79;
+  grid-row-start: 80;
   grid-row-end: 83;
   color: #000000;
   font-family: poppins;
